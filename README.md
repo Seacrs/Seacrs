@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Seacrs
-- 👀 I’m interested in front end dvelopment
-- 🌱 I’m currently learning html,css and javascript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on gmail: shemachris072@gmail.com
+# 👋 Hi, I'm Chris Shema!
 
-<!---
-Seacrs/Seacrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a junior developer passionate about building modern web applications and backend systems. I enjoy working with React and Node.js, learning new technologies, and improving my development skills through practical projects.
+
+## 🛠️ Technologies & Tools
+- **Frontend:** React, Next.js, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, NestJS, REST APIs
+- **Database:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, VS Code, npm, Webpack, Trello
+
+## 🌱 Currently Learning
+- Next.js
+- Advanced NestJS and backend development
+- Prisma and database management
+- Building scalable REST APIs
