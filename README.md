@@ -14,3 +14,14 @@ I'm a junior developer passionate about building modern web applications and bac
 - Advanced NestJS and backend development
 - Prisma and database management
 - Building scalable REST APIs
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Seacrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Seacrs&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seacrs&layout=compact&theme=tokyonight" height="180"/>
+</p>
